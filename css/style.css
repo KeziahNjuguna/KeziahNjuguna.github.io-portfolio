@@ -1,7 +1,7 @@
 h1 {
-  color: blue;
+  color: white;
   text-align: center;
-  background-color: black;
+  background-color: brown;
 }
 h2 {
   color: blue;
@@ -20,6 +20,7 @@ p {
 		text-align: left;
 		font-style: normal;
 		color: black;
+
 }
 
 ul {
@@ -32,7 +33,7 @@ ol {
   padding: 20px;
   background: orange;
   color: white
-  line-height: 40px;
+
 }
 .image {
   width: 25%;
@@ -40,10 +41,7 @@ ol {
   background-color: normal;
   border: 2px solid red;
 }
-.test-box {
-  border: 5px solid black;
-  padding: 6px;
-  margin: 20px;
+
 }
 .container {
 border: 5px solid black;

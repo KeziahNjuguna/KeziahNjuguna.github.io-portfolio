@@ -1,6 +1,7 @@
 h1 {
   color: blue;
   text-align: center;
+  background-color: black;
 }
 h2 {
   color: blue;
@@ -18,7 +19,7 @@ ol {
   line-height: 40px;
 }
 .image {
-  width: 30%;
+  width: 25%;
   float: right;
   background-color: normal;
   border: 2px solid red;
@@ -27,4 +28,45 @@ ol {
   border: 5px solid black;
   padding: 6px;
   margin: 20px;
+}
+.container {
+border: 5px solid black;
+padding: 6px;
+margin: 20px;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: 0.3rem;
+}
+
+@media (min-width: 576px) {
+  .jumbotron {
+    padding: 4rem 2rem;
+  }
 }

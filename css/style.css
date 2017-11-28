@@ -8,6 +8,13 @@ h2 {
   font-style: normal;
   text-align:  justify;
 }
+
+h3 {
+	color:#7a2e40;
+	margin:10px 0;
+	padding-bottom:10px;
+	font:bold 20px Arial, Helvetica, sans-serif;
+}
 p {
   font-family: sans-serif;
 }

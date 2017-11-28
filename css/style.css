@@ -23,9 +23,15 @@ p {
 }
 
 ul {
-  line-height: 40px;
-}
+				padding: 20px;
+				background: orange;
+				color: white
+
+      }
 ol {
+  padding: 20px;
+  background: orange;
+  color: white
   line-height: 40px;
 }
 .image {

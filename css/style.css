@@ -14,9 +14,12 @@ h3 {
 	margin:10px 0;
 	padding-bottom:10px;
 	font:bold 20px Arial, Helvetica, sans-serif;
+  background-color: #efece7 ;
 }
 p {
-  font-family: sans-serif;
+		text-align: left;
+		font-style: normal;
+		color: black;
 }
 
 ul {

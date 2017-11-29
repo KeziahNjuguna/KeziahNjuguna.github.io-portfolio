@@ -3,6 +3,7 @@ h1 {
   text-align: center;
   background-color: brown;
 }
+
 h2 {
   color: blue;
   font-style: normal;
@@ -20,21 +21,19 @@ p {
 		text-align: left;
 		font-style: normal;
 		color: black;
-
 }
 
 ul {
 				padding: 20px;
 				background: orange;
 				color: white
-
       }
 ol {
   padding: 20px;
   background: orange;
   color: white
-
 }
+
 .image {
   width: 25%;
   float: right;
@@ -42,7 +41,7 @@ ol {
   border: 2px solid red;
 }
 
-}
+
 .container {
 border: 5px solid black;
 padding: 6px;
